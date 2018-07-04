@@ -1,0 +1,1 @@
+powershell -noprofile -command "&{ start-process powershell -ArgumentList '-noprofile -file C:\Scripts\ComputerLogon\Logon_Instalador_User\Add_Comp_to_Instalador.ps1' -verb RunAs}"
