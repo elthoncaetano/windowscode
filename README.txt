@@ -1,1 +1,1 @@
-Repositório Criado para scripts .BAT Windows
+Repositório Criado para scripts Utilizados no Windows
